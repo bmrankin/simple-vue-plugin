@@ -1,8 +1,8 @@
 {
   "name": "@bmrankin/simple-vue-plugin",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple Vue plugin that uses vuetify components",
-  "main": "index.ts",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
