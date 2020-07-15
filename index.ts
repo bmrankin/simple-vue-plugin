@@ -1,5 +1,5 @@
 import { addition } from './utils'
-import SimpleButton from './components/SimpleButton.vue'
+import SimpleButton from './components/SimpleButton'
 
 export default {
   install: function (Vue) {

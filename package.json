@@ -1,12 +1,16 @@
 {
   "name": "@bmrankin/simple-vue-plugin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple Vue plugin that uses vuetify components",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Bryan Rankin",
   "email": "bryan@bryanrankin.com",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/bmrankin/simple-vue-plugin"
+  }
 }
